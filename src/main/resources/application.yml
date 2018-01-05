@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: run-config, jdbc, datalogic
+
+
+

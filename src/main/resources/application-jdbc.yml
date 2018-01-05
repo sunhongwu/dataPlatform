@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://10.152.4.97:3306/rmpsdb_che?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root@guomei
+
+  jpa:
+    show-sql: true
+    generate-ddl: false
